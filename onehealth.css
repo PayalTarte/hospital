@@ -1,0 +1,852 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+#onehealth_navbar {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+}
+
+#one_health_nav:where(ul, li, #active) {
+    display: inline-flex;
+    list-style: none;
+
+}
+
+#onehealth_navbar,
+#active {
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+
+#one_health_nav {
+    margin-left: 50%;
+}
+
+#one_health_nav {
+    margin-left: 50%;
+}
+
+#one-helth-folder-one-health {
+    width: 8%;
+    margin-left: 37%;
+    top: 1%;
+}
+
+img {
+    width: 14%;
+    height: 140px;
+    margin-top: -2%;
+    position: absolute;
+}
+
+#first_section {
+    width: 100%;
+    height: 556px;
+    background-color: #7676d4;
+}
+
+#first_section,
+h1,
+p {
+    color: white;
+    padding: 1% 0px 0px 5%;
+}
+
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+#Layer_1-1-1 {
+    width: 35%;
+    margin: -25% 0% 0% 50%;
+    height: 350px;
+    position: absolute;
+}
+
+#Explore {
+    width: 15%;
+    height: 40px;
+    position: absolute;
+    margin: 10px 5%;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    border-radius: 8px;
+    border: transparent;
+    cursor: pointer;
+}
+
+#row-max {
+    width: 80%;
+    height: 80px;
+    border: 1px solid black;
+    margin-top: 55px;
+    margin-left: 10%;
+    border-radius: 8px;
+}
+
+#row-max {
+    width: 80%;
+    height: 90px;
+    margin-top: 55px;
+    margin-left: 10%;
+    border: transparent;
+    border-radius: 8px;
+    background-color: #FFFFFFCC;
+}
+
+#md-flex-m p {
+    color: gray;
+}
+
+.line {
+    border-left: 2px solid gray;
+    height: 55px;
+    margin: -5% 20%;
+}
+
+#md-flex-m img {
+    width: 50px;
+    padding: -1px;
+    margin-left: -12px;
+}
+
+#second_line {
+    margin-left: 25%;
+    margin-top: -7%;
+}
+
+#second_line img {
+    margin-left: -25px;
+}
+
+.line2 {
+    border-left: 2px solid gray;
+    height: 55px;
+    margin: -4.6% 45%;
+}
+
+#thired_line {
+    margin-left: 50%;
+    margin-top: -6%;
+}
+
+#thired_line img {
+    margin-left: -3%;
+    margin-top: -40px
+}
+
+.line3 {
+    border-left: 2px solid gray;
+    height: 55px;
+    margin: -4.6% 70%;
+}
+
+#four_line {
+    margin-left: 80%;
+    margin-top: -6%;
+}
+
+#four_line img {
+    margin-left: -5%;
+    margin-top: -40px
+}
+
+#section__two {
+    width: 100%;
+    height: 150%;
+    background-color: #e91e6312;
+    position: absolute;
+    border-radius: 50px;
+}
+
+#section_two___heading {
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin: 5%;
+    border-radius: 24.996px;
+
+}
+
+.dark {
+    color: black;
+    text-align: center;
+    margin-top: -60px;
+}
+
+#card_first__threeCard {
+    width: 30%;
+    height: 600px;
+    border: 0.766533px solid #DBDBDB;
+    box-shadow: 0px 10.7315px 1.53307px rgba(183, 191, 192, 0.18);
+    border-radius: 22.996px;
+    margin-left: 30px;
+    margin-top: 60px;
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    transform: 2s;
+}
+
+#card_first__threeCard:hover {
+    box-shadow: 5px 5px 5px #e4c7c7;
+    transform: scale(1.1)
+}
+
+.card_first {
+    margin-top: 145%;
+}
+
+.mesh-bold {
+    position: relative;
+    bottom: 450px;
+    left: 2%;
+}
+
+
+#everything_you_need {
+    width: 15%;
+    margin-top: -150%;
+    margin-left: 2%;
+}
+
+.mesh-grade {
+    margin: -125% 0px 0px 2%;
+    font-size: 1.5rem;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+}
+
+#mesh-bold {
+    margin-top: -130%;
+}
+
+#mesh-bold_para {
+    color: black;
+    margin-top: -110%;
+}
+
+#first_list {
+    padding: 20px 0px 0px 10%;
+    list-style: none;
+    color: black;
+}
+
+#everything_you_need_second {
+    width: 15%;
+    left: 4%;
+    margin-top: -20px;
+}
+
+.second_card {
+    position: absolute;
+    color: black;
+}
+
+.mb-2 {
+    margin-top: 23%;
+    margin-left: 4%;
+    font-size: 1.4rem;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#mesh-bold-second {
+    margin-left: 20px;
+}
+
+#mesh-bold-second_para {
+    color: black;
+}
+
+.care-APP {
+    color: black;
+    list-style: disc;
+}
+
+#list_second {
+    margin-left: 10%;
+    padding: 10px;
+}
+
+#everything_you_need_thired {
+    left: 10px;
+    margin-top: -30px;
+}
+
+#thired_card {
+    position: absolute;
+}
+
+#fw700 {
+    margin-top: 13%;
+    padding: 10px;
+    font-size: 1.2rem;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#mesh-bold-thired_para {
+    color: black;
+    padding: 10px 12px;
+}
+
+#mesh-bold-thired_para_second {
+    color: black;
+
+}
+
+#mesh-bold-thired {
+    padding: 10px;
+}
+
+#member-plan_heading {
+    position: absolute;
+    margin-top: 75%;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    font-size: 2.3rem;
+    -webkit-text-fill-color: transparent;
+    margin-left: 22%;
+}
+
+#member-plan_card {
+    width: 330px;
+    height: 380px;
+    background: #F4F4F4;
+    border-radius: 16px;
+    padding: 55px 23px 42px;
+    margin: 83% 10px 0px 40%;
+    transition: 2s;
+}
+
+#member-plan_card:hover {
+    box-shadow: 10px 20px 10px #f4f3f2f1;
+}
+
+.pb-3 {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.fw____12months {
+    color: #9C27B0;
+    font-size: 25px;
+    text-align: center;
+}
+
+.fw400 {
+    color: gray;
+    padding: 10px;
+}
+
+.bg-pink {
+    padding: 10px;
+    background-color: #e91e6312;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    font-weight: 800;
+}
+
+.me-2 {
+    font-size: 1.7rem;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.gradient_btn {
+    padding: 10px 50px 10px 40px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    margin: 3% 10px 10px 4%;
+    position: absolute;
+}
+
+#section_thired {
+    width: 100%;
+    height: 180%;
+    background-color: #e91e6312;
+    position: absolute;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+.heading-highlight {
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    font-size: 2.3rem;
+    -webkit-text-fill-color: transparent;
+    margin-left: 35%;
+    padding: 5%;
+    position: absolute;
+}
+
+.whats-text {
+    color: black;
+    margin-top: 8%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#img_info_saves_card {
+    width: 98%;
+    height: 400px;
+    margin: 10px;
+}
+
+#Unlimited-Free-Forever {
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    font-size: 2.3rem;
+    -webkit-text-fill-color: transparent;
+    margin-left: 5%;
+    position: absolute;
+    margin-top: -10px;
+}
+
+#img_card {
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+#img_card img {
+    width: 30%;
+    height: 300px;
+}
+
+.right_img {
+    width: 2%;
+    left: 18%;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+
+.family-physician {
+    position: absolute;
+    left: 20%;
+    padding: 4%;
+    font-size: 1.4rem;
+
+}
+
+.debicated_care {
+    position: absolute;
+    left: 17%;
+    padding: 7%;
+    font-size: 1.4rem;
+
+}
+
+.right_img_second {
+    width: 2%;
+    left: 18%;
+    position: absolute;
+    padding: 10px 0px 0px 0px;
+    margin: 3% 0px;
+}
+
+.right_img_thired {
+    width: 2%;
+    left: 18%;
+    position: absolute;
+    padding: 30px 0px 0px 0px;
+    margin: 6% 0px;
+}
+
+.home_sample {
+    position: absolute;
+    left: 14%;
+    padding: 10%;
+    font-size: 1.4rem;
+
+}
+
+.right_img_four {
+    width: 2%;
+    left: 18%;
+    position: absolute;
+    padding: 60px 0px 0px 0px;
+    margin: 11% 0px;
+}
+
+.Healthcare_records {
+    position: absolute;
+    left: 6%;
+    padding: 17%;
+    font-size: 1.4rem;
+
+}
+
+.img_info_saves_card_img {
+    width: 30%;
+    height: 300px;
+    left: 55%;
+    position: absolute;
+    margin-top: -25%;
+}
+
+.Discounts_and_Benefits {
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    font-size: 2.3rem;
+    -webkit-text-fill-color: transparent;
+    margin-left: 5%;
+    padding: 2%;
+    position: absolute;
+    margin-top: -30%;
+
+}
+
+.secondcard-firstimg {
+    width: 2%;
+    height: 300px;
+    left: 7%;
+    margin-top: -30%;
+}
+
+.Health {
+    position: absolute;
+    left: 3%;
+    padding: 8%;
+    font-size: 1.4rem;
+    margin-top: -28%;
+
+}
+
+.Tests {
+    position: absolute;
+    left: -10px;
+    padding: 12%;
+    font-size: 1.4rem;
+    margin-top: -28%;
+
+}
+
+.secondcard-secondimg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 2% 0px 0px 6%;
+    margin-top: -26%;
+}
+
+.Medicines {
+    position: absolute;
+    left: -50px;
+    padding: 15%;
+    font-size: 1.4rem;
+    margin-top: -28%;
+
+}
+
+.secondcard-thiredimg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 2% 0px 0px 4%;
+    left: 2.7%;
+    margin-top: -23%;
+}
+
+.Check-ups {
+    position: absolute;
+    left: -7%;
+    padding: 18%;
+    font-size: 1.4rem;
+    margin-top: -28%;
+}
+
+.secondcard-fourimg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 8% 0px 0px 4%;
+    left: 2.7%;
+    margin-top: -20%;
+}
+
+.Consultations {
+    position: absolute;
+    left: -10%;
+    padding: 21%;
+    font-size: 1.4rem;
+    margin-top: -28%;
+}
+
+.secondcard-fiveimg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 11% 0px 0px 4%;
+    left: 2.7%;
+    margin-top: -17%;
+}
+
+.secondcard-siximg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 14% 0px 0px 4%;
+    left: 2.7%;
+    margin-top: -13%;
+}
+
+.Physiotherapy {
+    position: absolute;
+    left: -13%;
+    padding: 24%;
+    font-size: 1.4rem;
+    margin-top: -27%;
+}
+
+.secondcard-sevenimg {
+    width: 2%;
+    height: 300px;
+    position: absolute;
+    margin: 17% 0px 0px 4%;
+    left: 2.7%;
+    margin-top: -10%;
+}
+
+.Procedures {
+    position: absolute;
+    left: -16%;
+    padding: 27%;
+    font-size: 1.4rem;
+    margin-top: -27%;
+}
+
+.tex_grey {
+    margin: 30% 0px 0px -70%;
+    color: gray;
+
+}
+
+/* form section */
+.estimate-heading {
+    background: linear-gradient(89.97deg, #034EA2 0.02%, #25B0DB 20.32%, #934399 57.28%, #ED288A 80.19%, #ED1C24 99.97%);
+    background-clip: text;
+    font-size: 2rem;
+    -webkit-text-fill-color: transparent;
+    margin-left: 10%;
+    margin-top: -20%;
+
+}
+
+form {
+    width: 45%;
+    height: 95%;
+    border: 2px solid black;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 25%;
+}
+
+.amount-your-family {
+    font-size: 24px;
+    margin-left: 30px;
+    line-height: 30px;
+    margin-top: 20px;
+
+
+}
+
+.justify-content-between {
+    justify-content: space-between !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+input {
+    width: 20%;
+    height: 50px;
+    margin-left: 50%;
+    text-align: end;
+    font-size: 1.4rem;
+}
+
+#Dialysis {
+    margin-left: 78%;
+    margin-top: 20px;
+}
+
+#Health___Checkups {
+    margin-left: 78%;
+    margin-top: 30px;
+}
+
+#Medicines {
+    margin-left: 78%;
+    margin-top: 20px;
+}
+
+#consultations {
+    margin-left: 78%;
+    margin-top: 20px;
+}
+
+#Health________Checkups {
+    margin-left: 78%;
+    margin-top: 20px
+}
+
+.estimate_lists {
+    padding: 0px 0px 0px 20px;
+    font-size: 20px;
+}
+
+label {
+    position: absolute;
+    margin-top: 5%;
+}
+
+input[type="number" i] {
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+
+#sumhere {
+    width: 30%;
+    height: 50px;
+    padding: 40px -20px -20px -30px;
+    margin-left: 4%;
+    text-align: center;
+    background: #9c27b03d;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.estimate_total {
+    width: 90%;
+    height: 50px;
+    border: 1px solid black;
+    margin: 4% 0px 0px 5%;
+    background: #9c27b03d;
+    border-radius: 10px;
+
+}
+
+.txt_purple {
+    color: #9c27b0;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 6px;
+}
+
+footer {
+    width: 100%;
+    height: 70vh;
+    background-color: black;
+    position: absolute;
+    margin-top: 35%;
+}
+
+#one-health-logo-second {
+    padding: 10px 12px;
+    margin: 5px 10px;
+}
+
+/*footer*/
+#row_first,
+li,
+a {
+    color: white;
+    list-style: none;
+}
+
+#row_first h6 {
+    margin-left: 50%;
+    font-size: 20px;
+    margin-top: 5%;
+    line-height: 60px;
+}
+
+#row_first #company {
+    margin-left: 50%;
+    font-size: 20px;
+    line-height: 40px;
+    list-style: none;
+}
+
+#row_second,
+.help {
+    color: white;
+    list-style: none;
+}
+
+#row_second h6 {
+    margin-left: 66%;
+    font-size: 20px;
+    margin-top: -14%;
+    line-height: 60px;
+}
+
+#row_second li a {
+    margin-left: 64%;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+#row_thied,
+h6 {
+    color: white;
+    font-size: 20px;
+    margin-left: 75%;
+    margin-top: -7%;
+}
+
+#row_thied,
+h3 {
+    color: white;
+    font-size: 20px;
+    margin-left: 75%;
+    margin-top: 20px;
+
+}
+
+.fa-phone {
+    padding: 10px;
+}
+
+#social_icon {
+    display: flex;
+    margin-left: 73%;
+    padding: 10px 12px;
+    gap: 30px;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 1.5rem;
+    position: relative;
+    padding: 0px;
+}
